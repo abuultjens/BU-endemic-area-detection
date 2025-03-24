@@ -10,3 +10,14 @@ Koen command:
 snp-sites snippy.full.aln > snippy_Incl_N.fasta
 ```
 
+```
+36_VIC_W-37-INNER_W-22-GEELONG_nomask.full.clean.Incl_N.fasta = 248 SNPs
+
+
+
+
+
+
+```
+
+
